@@ -4,8 +4,8 @@
 
 /**
  * main - Entry point
- * Description: checks input number
- * return: Always 0n (success)
+ * Description: outputs last numbers
+ * Return:0
  */
 int main(void)
 {
@@ -25,6 +25,10 @@ int main(void)
 	else if (m == 0)
 	{
 		printf("Last digit of %d is %d and is 0\n", n, m);
+	}
+	else
+	{
+		printf("Last digit of %d is -%d and is less than 6 and not 0", n, m);
 	}
 	return (0);
 }

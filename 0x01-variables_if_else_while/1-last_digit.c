@@ -4,9 +4,7 @@
 
 /**
  * main - Entry point
- *
  * Description: checks input number
- *
  * return: Always 0n (success)
  */
 int main(void)

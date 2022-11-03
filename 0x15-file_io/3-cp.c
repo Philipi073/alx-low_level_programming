@@ -1,7 +1,7 @@
 #include "main.h"
 #define MAXSIZE 1024
 /**
- * __exit - prints error messages and exits with exit number
+ * __exit - prints error messages and exit with exit number
  * @error: either the exit number or file descriptor
  * @str: name of either file_in or file_out
  * @fd: file descriptor
